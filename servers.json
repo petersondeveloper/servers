@@ -1,0 +1,704 @@
+{
+	"version": "0.2.1",
+	"includes": [
+		"C:\\Totvs12\\Include"
+	],
+	"permissions": {
+		"authorizationtoken": ""
+	},
+	"connectedServer": {
+		"id": "sxpb1ye3uhl2exro18q9a0rjhr2bl",
+		"type": "totvs_server_protheus",
+		"name": "BAN46L_TST_COMP",
+		"port": 33001,
+		"address": "187.94.54.42",
+		"buildVersion": "7.00.210324P",
+		"secure": false,
+		"includes": [
+			"C:\\Totvs12\\Include"
+		],
+		"environments": [
+			"BAN46L_TST_COMP"
+		],
+		"username": "augusto.ribeiro",
+		"environment": "BAN46L_TST_COMP",
+		"token": "djM6c3hwYjF5ZTN1aGwyZXhybzE4cTlhMHJqaHIyYmw6MToxODcuOTQuNTQuNDI6MzMwMDE6MDo3LjAwLjIxMDMyNFA6Mw==:djE6QkFONDZMX1RTVF9DT01QOmF1Z3VzdG8ucmliZWlybzpXM1d0d0J4OVc1QU0ycDFBeDYyOXd4M0V0cnBBdDNMcWRvelh3Y2JSVEhRPQ==|djI6MTY1ODg1Mzg5NTowOjE6MQ==.BHTMOGiOlswQ9g9ZGWRoSwziQDAYcXx2ZOFYrC5DtekwDQ6Vh0p2f8fH+wVQPyKrGtI6Xz+LdC8zpUzOlgHK36RHGr4GaAVPoJkAJq1SLXcwWL6REx29bc1hJXmHsFTsZVBHhzMijC4L32x+cRtc2vGWmmHQVejGL0h99WLlU0nkew65FMLRf20E0ZZmmQRtkZEMwZseCE6Piildn8mNaoXJEd5+mP7QU2kkSRGHFn8YuNMlpOSB191OLQv6pUi4b5z3agv2mLL1gOtQhjAlQsYfC7iawQJPd5hChCERsRe7gIH6aNc8a5SAr1USnAbqTwO64kaZqnngSQfNwrYp6g==",
+		"informations": {
+			"permissions": [],
+			"errorMessage": "",
+			"environmentDetectedType": "totvs_server_protheus",
+			"serverDetectedType": "totvs_server_protheus"
+		}
+	},
+	"configurations": [
+		{
+			"id": "mpe1nvphwfl0mscreb8y0st25b4lb",
+			"type": "totvs_server_protheus",
+			"name": "LGPQLC_COMPILA",
+			"port": 6000,
+			"address": "labanalitica104751.protheus.cloudtotvs.com.br",
+			"buildVersion": "7.00.170117A",
+			"secure": false,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"LGPQLC_COMPILA"
+			],
+			"username": "admin",
+			"environment": "LGPQLC_COMPILA",
+			"token": "djM6bXBlMW52cGh3ZmwwbXNjcmViOHkwc3QyNWI0bGI6MTpsYWJhbmFsaXRpY2ExMDQ3NTEucHJvdGhldXMuY2xvdWR0b3R2cy5jb20uYnI6NjAwMDowOjcuMDAuMTcwMTE3QToz:djE6TEdQUUxDX0NPTVBJTEE6YWRtaW46WE55WnBPdlAyaUhuWjBsMnp2SExIUXduMVY3T3RoUUxFeDJ6cHFxeTc3RT0=|djI6MTY1NTczMzcyNjowOjE6MQ==.WNWIoyCMBsDoeG3bnHfmfHSyARwMxdNiQ+P39soCQqYZi+pPdLFTIg4cIqyJQYyPQWeIcRogLCCh38f7UoHPC+8rHmBiBusGkUW4Cgw5ksJs6wW9JWv8Nu6sffieOdKxmzQ9FJ7N1Shm1+TcPtmhLbPnyPBBdToJOh3FVc/2rGHtk+9bx7NeoDdBNKzN9sHX0CxirORrM5/kfMtX99Qyp6pZci5ott0ZuX2gl1n6AWco4fkXb5d4BpNXMllZ6T89U8/1X6orJ6kN8R6RKNYIT12q1gLYudof4nSpkyvRj7reRzI7c0FGflbhhPz6lqH4oYVdAAvLbrP5SK07SLyxrg==",
+			"patchGenerateDir": "c:\\Totvs12\\patch",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			}
+		},
+		{
+			"id": "avw2i7ingihl0mse8xb886lvvxoiji",
+			"type": "totvs_server_protheus",
+			"name": "RFIM4S_TST_STAGING_33505",
+			"port": 33515,
+			"address": "rfim4s-tst-protheus.totvscloud.com.br",
+			"buildVersion": "7.00.210324P",
+			"secure": true,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"RFIM4S_TST_STAGING_33505"
+			],
+			"username": "peterson.compila",
+			"environment": "RFIM4S_TST_STAGING_33505",
+			"token": "djM6YXZ3Mmk3aW5naWhsMG1zZTh4Yjg4Nmx2dnhvaWppOjE6cmZpbTRzLXRzdC1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjozMzUxNToxOjcuMDAuMjEwMzI0UDoz:djE6UkZJTTRTX1RTVF9TVEFHSU5HXzMzNTA1OnBldGVyc29uLmNvbXBpbGE6ZDlrajlZQzI0U3poNTRwWll2Ulc3SEtzalAyQ0RBV1ROQmF2KzcrZVhaST0=|djI6MTY1MzMwOTU2ODowOjE6MQ==.RPAQIVNclUgCNNL/fD6N6jRpe6J9s1IqWhjCWZ1+lD+sPhtj//nmoVBhO/Wkm7bqySCnkJ5ia8HTL17DDH13fg21+nlQV3Qh6xf/T8lu3Eb1xZKj11v5JVEGL6bUjnuhkM53+/E5dXkFFwyVvwh2B0851to/iBWKqXKWAg3yimOpd8kNiw43keHy/J8fTppAWrJjjdYBEyLYjrDONRtEx4ONN7PhqRQb7T3eagJpYvNrlIyvRXJ/2ogUs1moBDGzGKxkTIrHMNQqjoveEF4grQpFgEf6E5vQbz6IzML/ALtzdsVYLnslaKwfj4OzKJVvrfwqnUwTLFbPpV51cqaL9w==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			}
+		},
+		{
+			"id": "4358a3q8y5ll0msexx5uvpc9ugid9t",
+			"type": "totvs_server_protheus",
+			"name": "RFIM4S_TST_STAGING_33608",
+			"port": 33618,
+			"address": "rfim4s-tst-protheus.totvscloud.com.br",
+			"buildVersion": "7.00.210324P",
+			"secure": true,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"RFIM4S_TST_STAGING_33608"
+			],
+			"username": "peterson.compila",
+			"environment": "RFIM4S_TST_STAGING_33608",
+			"token": "djM6NDM1OGEzcTh5NWxsMG1zZXh4NXV2cGM5dWdpZDl0OjE6cmZpbTRzLXRzdC1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjozMzYxODoxOjcuMDAuMjEwMzI0UDoz:djE6UkZJTTRTX1RTVF9TVEFHSU5HXzMzNjA4OnBldGVyc29uLmNvbXBpbGE6TUdmSkh4d3dNZlhMVCtHZmJaSWNSMVlHNkFKUkN1Ump5RFNmZm1ndmNrMD0=|djI6MTY1MzE3MTMwNTowOjE6MQ==.IY+VNNIL6lCh2PG3UuR8Qz8VUHhHLe4LEFqoHoM9JT4sZTphn+CJhXoH/t0ZHZ56jeeHK0mQNY7AgxWuHDmiEH/REhc2eJ80TkL1hYWwz7TGqDalzxfoysO9mJVowQMsROatazaEXYrJS7E73yTw5T+l4eh98g1fUmKshKvkAUGIl9nUUzJM4140ax1Kaoj8Ex4oCbejloU++KgEJFcejtC/yxeF83rt/lCMpD0FUc4fMLtKWJom5GDOLkkCr98xGDUNyS6EWuog1TBQLpOrTVkY0o454cV6+VtwCLCTHknlInnt+xsmba9a29H7C4Xbu+G2sTtPfya7ETtKeIpiwA==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			}
+		},
+		{
+			"id": "9xzcxpuiw7gl0msfi68h9xe6swrj7l",
+			"type": "totvs_server_protheus",
+			"name": "RFIM4S_TST_STAGING_33609",
+			"port": 33619,
+			"address": "rfim4s-tst-protheus.totvscloud.com.br",
+			"buildVersion": "7.00.210324P",
+			"secure": true,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			]
+		},
+		{
+			"id": "5maldvmi8osl0mx51e5ympdw4afywh",
+			"type": "totvs_server_protheus",
+			"name": "RFIM4S_TST_STAGING_33504",
+			"port": 33514,
+			"address": "rfim4s-tst-protheus.totvscloud.com.br",
+			"buildVersion": "7.00.210324P",
+			"secure": true,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"RFIM4S_TST_STAGING_33504"
+			],
+			"username": "ansantana.compila",
+			"environment": "RFIM4S_TST_STAGING_33504",
+			"token": "djM6NW1hbGR2bWk4b3NsMG14NTFlNXltcGR3NGFmeXdoOjE6cmZpbTRzLXRzdC1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjozMzUxNDoxOjcuMDAuMjEwMzI0UDoz:djE6UkZJTTRTX1RTVF9TVEFHSU5HXzMzNTA0Om5vdXNlcjpxQzRVZDVOU2NwdEM3bkZabURIRUFKRDlkNVozTStZeDIxL3QyNnR6bDAwPQ==|djI6MTY1NzA1Mzg4OToyOjE6MA==.ItZBM5FM15dlK1Ibub18hPKwR+04uvdSBLK/KK5uTngwrz5EgbSDSfKJhEO8JTNymnH/JTrEnISH2VesTDKTlN/6M1TabqikShzUBKsc9G00cJmFshOJFvO+Ga/JlbNDyT+A7SmmJckTuYIg4hBaR7w3NGKz9rwOyZ/rC5DcQ/Jlsalqkn3yW2GlNJxy6H/mU1XN7M1e1+o93+PbnwAesfPcacMmWz0ThATRtgR/7Hpg5hb6ZuDTgoIQ2Mm5YcLfjBdhK6G8z9TS0V91ho6NMSYOM1rqqe3AEkviWxBeJHfQ4NE/NIj+a4GyInpnZxP3iWEU+onOSi3Y710EMHnPig==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_totvstec",
+				"serverDetectedType": "totvs_server_protheus"
+			}
+		},
+		{
+			"id": "bhxb8h211xml1b7zwz7qheoac9kugj",
+			"type": "totvs_server_protheus",
+			"name": "BAN46L_PRD_COMP02",
+			"port": 13501,
+			"address": "187.94.54.42",
+			"buildVersion": "7.00.210324P",
+			"secure": false,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"BAN46L_PRD_COMP02"
+			],
+			"username": "augusto.ribeiro",
+			"environment": "BAN46L_PRD_COMP02",
+			"token": "djM6Ymh4YjhoMjExeG1sMWI3end6N3FoZW9hYzlrdWdqOjE6MTg3Ljk0LjU0LjQyOjEzNTAxOjA6Ny4wMC4yMTAzMjRQOjM=:djE6QkFONDZMX1BSRF9DT01QMDI6YXVndXN0by5yaWJlaXJvOlhrNlZ2dDdQczE0L2tpTndYSzVkcmpRL0hlbnp5YUk0anVnQTZVMmZGMVU9|djI6MTY1ODMzNTk5ODowOjE6MQ==.RDzyaomAxA6Mid5zdLTzjrSCqbW6e5z6PAxZDGxECA/IaRMz/UQH0EjpvaFx5NnMuXRg1lHEB/VhjjCa6pCoet/IjoPojcNqRaISe9ckow1O+CdlAdjs4tt1HH6Acq4s4KwieOH7qQD9NEfaO2p2arUjN00Acrao4Qem8hE07zOUgPFctV5jBt1LCZMGFzBhSlVqtLyCdqEckVP+8BwP4JndvBXrZ3nrASS9Y0K4CRzIBMAQiq7kzzN/TpwOUOu1qbskiNMbs+Fhj49R/DlYz1apmJbtR/7zM2a4tkcKHm+dpMULVuMqpkfvk07tWZSUqDkbGwRdBLGura5aV3YRKg==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			},
+			"patchGenerateDir": "c:\\Totvs12\\patch"
+		},
+		{
+			"id": "8q4i4pfke1el1dwxaqv9ypn0g2vnj",
+			"type": "totvs_server_protheus",
+			"name": "BAN46L_DES_COMP",
+			"port": 45001,
+			"address": "ban46l-des-protheus.totvscloud.com.br",
+			"buildVersion": "7.00.210324P",
+			"secure": false,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"BAN46L_DES_COMP"
+			],
+			"username": "augusto.ribeiro",
+			"environment": "BAN46L_DES_COMP",
+			"token": "djM6OHE0aTRwZmtlMWVsMWR3eGFxdjl5cG4wZzJ2bmo6MTpiYW40NmwtZGVzLXByb3RoZXVzLnRvdHZzY2xvdWQuY29tLmJyOjQ1MDAxOjA6Ny4wMC4yMTAzMjRQOjM=:djE6QkFONDZMX0RFU19DT01QOmF1Z3VzdG8ucmliZWlybzppQUhrNFVnY2xFdUhrV0daei9FUk1YbElmRWZjdXhKTys3eDgrV2RZR29FPQ==|djI6MTY1ODc3ODU2OTowOjE6MQ==.G37wdnPDq6RLZFrpQO+Yw2tLkJ9MsTKGj8J8UMD+E5TpSGH+eERCV7yW18B36MgoYegHQepCYxv37eDmOrJJJQWUkk74CH9NP119nk/hVUzZMa0C4nT67LOX/c/tqBVjUEbAz8ktmfgaRmoQyDQ8MKTfGgrZRlLhJnLFOKMjwTPt9Bw0cqeFSvI3+cgqzD3vDQ7uakINMZa0eT2Qc0lHtBOuuZMvu+wIVZ7iyLBll2SdFUIeL0I3+skkk19yMgE6jRYlwowclTyZ8AwuRz0wez0Ss5zZjg639H8Rq8LXoISN/IppRX5PJj6XrRvNTSK5PFl+3z5VIsZkSXUnnHVqjQ==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			},
+			"patchGenerateDir": "c:\\Totvs12\\patch"
+		},
+		{
+			"id": "sxpb1ye3uhl2exro18q9a0rjhr2bl",
+			"type": "totvs_server_protheus",
+			"name": "BAN46L_TST_COMP",
+			"port": 33001,
+			"address": "187.94.54.42",
+			"buildVersion": "7.00.210324P",
+			"secure": false,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"BAN46L_TST_COMP"
+			],
+			"username": "augusto.ribeiro",
+			"environment": "BAN46L_TST_COMP",
+			"token": "djM6c3hwYjF5ZTN1aGwyZXhybzE4cTlhMHJqaHIyYmw6MToxODcuOTQuNTQuNDI6MzMwMDE6MDo3LjAwLjIxMDMyNFA6Mw==:djE6QkFONDZMX1RTVF9DT01QOmF1Z3VzdG8ucmliZWlybzpXM1d0d0J4OVc1QU0ycDFBeDYyOXd4M0V0cnBBdDNMcWRvelh3Y2JSVEhRPQ==|djI6MTY1ODg1Mzg5NTowOjE6MQ==.BHTMOGiOlswQ9g9ZGWRoSwziQDAYcXx2ZOFYrC5DtekwDQ6Vh0p2f8fH+wVQPyKrGtI6Xz+LdC8zpUzOlgHK36RHGr4GaAVPoJkAJq1SLXcwWL6REx29bc1hJXmHsFTsZVBHhzMijC4L32x+cRtc2vGWmmHQVejGL0h99WLlU0nkew65FMLRf20E0ZZmmQRtkZEMwZseCE6Piildn8mNaoXJEd5+mP7QU2kkSRGHFn8YuNMlpOSB191OLQv6pUi4b5z3agv2mLL1gOtQhjAlQsYfC7iawQJPd5hChCERsRe7gIH6aNc8a5SAr1USnAbqTwO64kaZqnngSQfNwrYp6g==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			}
+		},
+		{
+			"id": "n23i4116vznl2f0n26c5dv74ixcp5k",
+			"type": "totvs_server_protheus",
+			"name": "BAN46L_TST_REST_33308",
+			"port": 33308,
+			"address": "187.94.54.42",
+			"buildVersion": "7.00.210324P",
+			"secure": false,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"BAN46L_TST_REST"
+			],
+			"username": "augusto.ribeiro",
+			"environment": "BAN46L_TST_REST",
+			"token": "djM6bjIzaTQxMTZ2em5sMmYwbjI2YzVkdjc0aXhjcDVrOjE6MTg3Ljk0LjU0LjQyOjMzMzA4OjA6Ny4wMC4yMTAzMjRQOjM=:djE6QkFONDZMX1RTVF9SRVNUOmF1Z3VzdG8ucmliZWlybzpJeVZsdlBKWGdJVjZqMnA3Y1RtUDg2MW81YWorOXFMK2JvMCtnYmdwUlJzPQ==|djI6MTY1MzU3NDQ1ODowOjE6MQ==.mKB9RlA99mCl1yv7maAH+90e+XsG58HmsyirsFeuwI3VDAyYaB+z2VeZYCkz1c6t0n4Ms2MDr66QGZadgecHCCGYSqPHcQorqMBU4zGuU4TZP0akBHNncPAo6F6EkoN55+0VQUrsMYZiti5Svip75WO1J34mgw7cg8mNTNE7nSONNcoFjybw7YFys6Wrhrn4doCEeqhKvEl1RnU2SP8lQyuYIyBiU2hKjt+klPr3tkVdp7dw0yRxwGebfC9BtXK2cbgzSopSryCyY1HAO5ST1TtvOiIcQkO1JYnVrvwSmUiCy3qSyvucGumsey9Um4z6lfC0/6U5oZeuI7PPDJF4MA==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			}
+		},
+		{
+			"id": "ugi4l3qeh2rl2f5kvp8ql4w66m16gj",
+			"type": "totvs_server_protheus",
+			"name": "BAN46L_PRD_COMP",
+			"port": 13501,
+			"address": "187.94.54.42",
+			"buildVersion": "7.00.210324P",
+			"secure": false,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"BAN46L_PRD_COMP"
+			],
+			"username": "augusto.ribeiro",
+			"environment": "BAN46L_PRD_COMP",
+			"token": "djM6dWdpNGwzcWVoMnJsMmY1a3ZwOHFsNHc2Nm0xNmdqOjE6MTg3Ljk0LjU0LjQyOjEzNTAxOjA6Ny4wMC4yMTAzMjRQOjM=:djE6QkFONDZMX1BSRF9DT01QOmF1Z3VzdG8ucmliZWlybzowNXEvNHkxL0tlVFlBTDdyQ0hRSG0xMEJhNnd3dzhDNHNhQTc0ZkJhTG1jPQ==|djI6MTY1ODM0NjcyMDowOjE6MQ==.EYPOPACM69w7imzzZOrRH8zbvy5TD9R4zeUjUmy3XC2oIjRLCWoB7TUouEs1xwPHCAvbihQnII+cPNUWNrUA0uG+I8FRCMqKd2cHaGuuj4/N4fuNBjHHufnIzr0jiwzCtNsMudvtMVAnafiK6DNmAhwTdgknXBSy/3/f8MmxF2vquCgjuXFQrsdmdeFz1LDzSXtoH+DslKO+/M53fig4f91NIAzS3NY2qAA50eJSnB/7/KPg6HOTK9s7s5K5uEcDaxGMCjIDI36Wy1YjlcasoZ6Zy5e4FQgnvOIEizh+dK5d39wvPnBgtJLLibLBkisCDcqHm3wB2894LJAq/GPtXw==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			},
+			"patchGenerateDir": "c:\\Totvs12\\patch"
+		},
+		{
+			"id": "k5fbg65i23pl2z30haimri46h26c6f",
+			"type": "totvs_server_protheus",
+			"name": "RFIM4S_PRD_STAGING_13405",
+			"port": 13415,
+			"address": "rfim4s-prd-protheus.totvscloud.com.br",
+			"buildVersion": "7.00.210324P",
+			"secure": true,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"RFIM4S_PRD_STAGING_13405"
+			],
+			"username": "paquino.compila",
+			"environment": "RFIM4S_PRD_STAGING_13405",
+			"token": "djM6azVmYmc2NWkyM3BsMnozMGhhaW1yaTQ2aDI2YzZmOjE6cmZpbTRzLXByZC1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjoxMzQxNToxOjcuMDAuMjEwMzI0UDoz:djE6UkZJTTRTX1BSRF9TVEFHSU5HXzEzNDA1OnBhcXVpbm8uY29tcGlsYTpvSmU1cGhnRzUyLzZGUW1RZk9RL3crejhXaDVLNjJiVXBDVVZoTjREdk1NPQ==|djI6MTY1ODQzODY4MDowOjE6MQ==.DPfqn5eKL4Jnrkme8hSBdVDIx/uz5qmQtXrrOuV4tSC2+QmQucZzp2E3bGoo6+lXRqbadP7kJ/Lju1Jo5MROq7ozt4e4sPqlB6Zeb6KOAx40UzB54KT6I++CuA1UNrAxJ8s58lfFIR75jYyeHOvYrV6f81qYiSks+U3xP66R39eq+4dzjdLmatUUQocVticMuYGtgzr8Ah81c33bXROhaK+ZjBoK88sxTWPMVm0hjBM5tavtAghxQ2hQAIsaOM57CDvE2zIRShMSeXszSHiQtpV8Wy4Ia/3swQIXaTEGValFGggftEB99PExCW289ZolO8q0mv6c/umRZSDdEX2qYg==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			}
+		},
+		{
+			"id": "b4tpq9drmrol3c10u7m8z7co8nl56c",
+			"type": "totvs_server_protheus",
+			"name": "BAN46L_TST_SOAP_33301",
+			"port": 33301,
+			"address": "ban46l-tst-protheus.totvscloud.com.br",
+			"buildVersion": "7.00.210324P",
+			"secure": false,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"BAN46L_TST_WS"
+			],
+			"username": "augusto.ribeiro",
+			"environment": "BAN46L_TST_WS",
+			"token": "djM6YjR0cHE5ZHJtcm9sM2MxMHU3bTh6N2NvOG5sNTZjOjE6YmFuNDZsLXRzdC1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjozMzMwMTowOjcuMDAuMjEwMzI0UDoz:djE6QkFONDZMX1RTVF9XUzphdWd1c3RvLnJpYmVpcm86SVNkVTZmWWFHalNqaWRxWE0vL0FkQXovTE5COE1SeWd2RUh6M2J4SVdDMD0=|djI6MTY1NjAwNzUwNzowOjE6MQ==.IYVk0A/D+ZwkUVAUsgS95AbDsYSalsCHbSgcqyvsu5BzkTgEzS/bNrgAyvtSGb0l6D2Vqsl9wIK/gh5nIEYyoXVT2OizSPaaVTILMNfalGRONw6Y1HRNeLa+enCgi1RwYjta8USbyX++l5UHWas6hj/5ti+6/KcdcDUBf8CRCO8Bml97SpupQ0AhWEn2YKC7ZCXg8L8yB3fpf7Fm1VO78E2ctW/zqQpDXAojrAOKP1QSoY9tSUx8AjoIauD3keVfpCUuwsgStaVrNfwAa+6o7GGRp0a+t05oaK+1hNcYJot0RK13gp+WoXHa0fDrJCJhpxLUUVtnJYb9ja9DeFkNWQ==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			}
+		},
+		{
+			"id": "crwb564gudl3kb6kcbfgk7d02t5dr",
+			"type": "totvs_server_protheus",
+			"name": "BAN46L_TST_SOAP_33302",
+			"port": 33302,
+			"address": "ban46l-tst-protheus.totvscloud.com.br",
+			"buildVersion": "7.00.210324P",
+			"secure": false,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"BAN46L_TST_WS"
+			],
+			"username": "augusto.ribeiro",
+			"environment": "BAN46L_TST_WS",
+			"token": "djM6Y3J3YjU2NGd1ZGwza2I2a2NiZmdrN2QwMnQ1ZHI6MTpiYW40NmwtdHN0LXByb3RoZXVzLnRvdHZzY2xvdWQuY29tLmJyOjMzMzAyOjA6Ny4wMC4yMTAzMjRQOjM=:djE6QkFONDZMX1RTVF9XUzphdWd1c3RvLnJpYmVpcm86Vmlrc0hUTUt3RHZremdXaW9wZjlwWVhUQlFjTWoyeDJ3c3Rvb2JVK2ZOaz0=|djI6MTY1MzQwNTkzODowOjE6MQ==.lFaYC63Ej0zpdIrGDseUDaZbz7736EgfzVa53r0oRgg2xw6QgegTbqez+WVPGNk9CIXT76ZFBZuFNhW3XF4Mw7KqcNCoOIYSfijnYyqWq5JRDKLvsC0wNi5vBfjRHIWLWMB0Mag334ar6pd3L4CSBHO2fpKtP+qjUtJ4jzKL8AqaAxOQ6tjJz45+PapPho6RMHLXQnSNUXikNbDXExpnErD2ntlc9AUnbUOTEADXUOyJeZWPrBdpGrcrlUVivXk/zFAb0O1rCvwouU/0rvSzOFZMz+2QaEe79/2ntvUfokIw9k1bbeuQ9KaKVROkSWsAjiyhRk7YClGBu7pBQlCJ1Q==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			}
+		},
+		{
+			"id": "3foy0g0pk47l4d2t563k2xzalf0nyd",
+			"type": "totvs_server_protheus",
+			"name": "BAN46L_DES_EXCLUS",
+			"port": 45020,
+			"address": "ban46l-des-protheus.totvscloud.com.br",
+			"buildVersion": "7.00.210324P",
+			"secure": false,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"BAN46L_DES"
+			],
+			"username": "augusto.ribeiro",
+			"environment": "BAN46L_DES",
+			"token": "djM6M2ZveTBnMHBrNDdsNGQydDU2M2syeHphbGYwbnlkOjE6YmFuNDZsLWRlcy1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjo0NTAyMDowOjcuMDAuMjEwMzI0UDoz:djE6QkFONDZMX0RFUzphdWd1c3RvLnJpYmVpcm86WEN6KzBJak1vUVQrMlMxMlVIYXJmMHI3K2JPOHRtUzVGREcvR09PMkdLQT0=|djI6MTY1NTgzNzQ2MTowOjE6MQ==.RenFGl7G/w5qnVuGfFgyb7T0XC75+Bq6FsuMoc/c4TOHZ00p0FVRc7hwvcaMFJO6jAxKKDF773WgNUZ9T0Qs+KWgYgv8LbkMOeKx9YGz2tYw0J4d3+MAQTZjBYrC8lM9wOo97bd/8P2vmJn6JM+uWEuUX2mTQzDvSLnBiyxYBQPYRpIfZknGx0oxDN9ku5Kq3eHC5//87mLYutWhEGksk6JQj3r68/Zc/EnOhHIbU1fQQAPnyNK97IMV7YlZJjN0eTXKFFqQodE0LBDiipPv7RnCYLMn0yt+0+QBsAPikXYdL+Xz3LUHeliwwHABh6MBOuFxZQP9SR9xWzAnfO8sog==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			}
+		},
+		{
+			"id": "6t0zcs2hldll4snky9xnv0dh1y6zo",
+			"type": "totvs_server_protheus",
+			"name": "Localhost",
+			"port": 1234,
+			"address": "Localhost",
+			"buildVersion": "7.00.191205P",
+			"secure": true,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"Environment"
+			],
+			"environment": "Environment",
+			"token": "djM6NnQwemNzMmhsZGxsNHNua3k5eG52MGRoMXk2em86MTpMb2NhbGhvc3Q6MTIzNDoxOjcuMDAuMTkxMjA1UDoz:djE6RW52aXJvbm1lbnQ6bm91c2VyOkVuT2g5a0REaHJBc0JDQ2NEMS9xN1dGODVUSlVKUHc2ZFZQS0pRM2FFTW89|djI6MTY1ODcxODM5MToyOjE6MA==.t6I+ZfONmAojz19O3UlSLcYc/DdpM9j1wgUIb6D8Kt0KEdLHRQjWzbQdf/v3qvcGbCvAViZqxsWrdtrCaKoXCRws3wIQuj1CGA708WctDgSyXajZP037EKA+nC3/OGaQklxnn0GphxdLr/vjRF6EaV3C9WejRw0Amdmv46yFVpF7PL+Z0sxLG/FTM1woTKYZkYDoR1pYiLAJtbF87Dk1SDUv3oVopx9tldwnpQCda/mMNAVLIiI0ALdeQj4f4Pl4YXodCkPX3w91wagYPdHOoH9z5vYirSqB6lulGvXxnpjiUXNbtb4FXjo7oVUOoYp0lI8rMI0vesHcPJBadear2A==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			},
+			"patchGenerateDir": "c:\\Totvs12\\patch",
+			"username": "admin"
+		},
+		{
+			"id": "tjcmf0s5kzal4zu2441g66ht8ea1mf",
+			"type": "totvs_server_protheus",
+			"name": "DAISO_COMPILA",
+			"port": 6296,
+			"address": "45.236.78.2",
+			"buildVersion": "7.00.210324P",
+			"secure": true,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"GZNTAT_TST_33"
+			],
+			"username": "COMPILA1",
+			"environment": "GZNTAT_TST_33",
+			"token": "djM6dGpjbWYwczVremFsNHp1MjQ0MWc2Nmh0OGVhMW1mOjE6NDUuMjM2Ljc4LjI6NjI5NjoxOjcuMDAuMjEwMzI0UDoz:djE6R1pOVEFUX1RTVF8zMzpDT01QSUxBMTplWUdqMFo3eER1bGVnNnMxNnVHOC8zbTRCSGdhZWVoY25Sc3VDR3QrZTdjPQ==|djI6MTY1NzczNDA1MTowOjE6MQ==.P02EFjYjSdM6LuSwZqlLyEfgMit26H7Y+Gad6BytngXRRnX2+w/HrP1h0e8EU6avoTVOOSTiFJyTRuuB4dnraMmickmfRR7U/dmBEezj/WZxUQ9idwOi7MFbzKlvN02sFDV+iDtBHAGJQeA2Pj+wCkDSZcDAJaNqO4blxBw3g2R4rzEiIG7UGdtjabQiB+Axr0uZ6wH7lFsw09Zn9vskIgV3m4CfEetK+8bchA3VRZ7+YfoOrs0fkesft8kS+J5etZTqRjGUCQWgABa4vgXMLPO0HWH2b6WFptHzUOFmh8nJUlD1XRjNxs66mNyDwmQkmrMmlJQq/d7x2aIQTAeKQg==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			}
+		},
+		{
+			"id": "kmywlbgs6ul55hem3xacmxwffg9qi",
+			"type": "totvs_server_protheus",
+			"name": "Localhost_Rest",
+			"port": 1236,
+			"address": "Localhost",
+			"buildVersion": "7.00.191205P",
+			"secure": true,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"Rest"
+			],
+			"username": "admin",
+			"environment": "Rest",
+			"token": "djM6a215d2xiZ3M2dWw1NWhlbTN4YWNteHdmZmc5cWk6MTpMb2NhbGhvc3Q6MTIzNjoxOjcuMDAuMTkxMjA1UDoz:djE6UmVzdDphZG1pbjpkS1QwOFBpSnpPWm9HMEtTZWYzOXgxWjFFNUxUWkNRYUUrMU1mNmtSTlZ3PQ==|djI6MTY1Njk0NDg5OTowOjE6MQ==.L7R+iU+n6M68uakQHAVt6eRgwwc4V5PNsocM4zHSF/eNJahe85AMyfW9fUQwZzw7TuRhLjxT23ClMmgo82J0utkmz5hsxkDGAVPq3pc+yDGVHuq2FSksgXaRUEbNMGKrNqlSxQIT9Hk+1pcWGcAY6QvaUt5iHK6Nvv9Z11g6W92enUuNTygeV4MwQoCOTycd8HagCRN13jZbTBEhI21h22pm1jSwipbBvKdAf6qLQwDP8XlaW8jU0MBKaHXBaxfgC/HjQodDFm7aTtIakP9htbkZsZeEJygVEqiv4IQuUVNweZQ5s2++b5cVhJrIuIM5ReaSyOTOXrrg3Wdj+8W7cg==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			}
+		},
+		{
+			"id": "krvdvu9woqkl5zl7sc4jq7fyzzpz2m",
+			"type": "totvs_server_protheus",
+			"name": "AGUASDOBRASIL_PJCCR01",
+			"port": 2018,
+			"address": "10.253.0.137",
+			"buildVersion": "7.00.191205P",
+			"secure": true,
+			"includes": [
+				"C:\\Totvs12\\Include"
+			],
+			"environments": [
+				"PJCCR01"
+			],
+			"username": "compila",
+			"environment": "PJCCR01",
+			"token": "djM6a3J2ZHZ1OXdvcWtsNXpsN3NjNGpxN2Z5enpwejJtOjE6MTAuMjUzLjAuMTM3OjIwMTg6MTo3LjAwLjE5MTIwNVA6Mw==:djE6UEpDQ1IwMTpjb21waWxhOkQvVzNGMjhSL3d5VEIwbTdLc2tiYWszTXJNVStkVE8yRFo3WDh3bkIrdjQ9|djI6MTY1ODY4MzMzNjowOjE6MQ==.I5YXfCRkr2L/wqg7wtL3X4+6dCtA0jmML3KrALChXgHHoxwtGSHdC4xjBCs9fv+F0x9BxOY7HR/D1pFi2AhNP7n/lK/vcdkyOzSim6FOLI0YiG2uwKhN+CwARL3tJPYNORIMGbcHA2Pa8A76RWrsJqd9CLR76+Zsk7YFONTKYzHNNrHPdPC6Ahg4wxuJFEdr35piIMVY4hPpG1m9DJWBYzV+SyfXXalW9WKZUoGwv5aq3P2ocrVkzfacx/lFPbPmoXRZs4YnKCN2Hz5bTmWje0bqh12RVLvhOLbfjzy/EM8iTd++ZaWjCZkw9gGU752LADO5Lwo2PdBkIdQCoKPhWw==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			}
+		},
+		{
+			"id": "ptbikckw3kol606pomty1ofomzfls",
+			"type": "totvs_server_protheus",
+			"name": "Localhost_Aguas",
+			"port": 1235,
+			"address": "localhost",
+			"buildVersion": "7.00.191205P",
+			"secure": true,
+			"includes": [
+				"D:\\Totvs\\Include"
+			],
+			"environments": [
+				"Aguas_Compila"
+			],
+			"environment": "Aguas_Compila",
+			"token": "djM6cHRiaWtja3cza29sNjA2cG9tdHkxb2ZvbXpmbHM6MTpsb2NhbGhvc3Q6MTIzNToxOjcuMDAuMTkxMjA1UDoz:djE6QWd1YXNfQ29tcGlsYTpBZG1pbjpBeHQ3Ykd3QkgvSGJ5K3EwbVM0R0tZWjRDNnZZTVFnY1NRZlJEQXE4YXJvPQ==|djI6MTY1ODg0MDI0NDowOjE6MQ==.gMXSYNShkW6/labSDullFeN0oVkdJpKPWTF1UXQCzwV3VXckP3xiEmJbz1zWSXXdrMDcjgoiudsDioc1MacGmpVzYCgLjSughi/9QRCfUiywozrW4fjbR4wxpoayZ7oh+AR6XqrpSJla5SeFY6sUB4a8mbL20rA6CGHyuq0aFLLk/LiTISWAPjOreFSQVoP5zkvQ7WH/QXg5/jGG1J216bKNDJd11zlRDYqjw6aEP0mqiGKy222GOQeClYe6yhue4T3b6mA5MSmzB6N/XYD1RC7xwX+izZys7pBaYPP9FPmaYaj93XjhgcZlx9CXpTvE1DP51TB7ERaym9aa9ngerw==",
+			"informations": {
+				"permissions": [],
+				"errorMessage": "",
+				"environmentDetectedType": "totvs_server_protheus",
+				"serverDetectedType": "totvs_server_protheus"
+			},
+			"username": "Admin"
+		}
+	],
+	"savedTokens": [
+		[
+			"avw2i7ingihl0mse8xb886lvvxoiji:RFIM4S_TST_STAGING_33505",
+			{
+				"id": "avw2i7ingihl0mse8xb886lvvxoiji",
+				"token": "djM6YXZ3Mmk3aW5naWhsMG1zZTh4Yjg4Nmx2dnhvaWppOjE6cmZpbTRzLXRzdC1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjozMzUxNToxOjcuMDAuMjEwMzI0UDoz:djE6UkZJTTRTX1RTVF9TVEFHSU5HXzMzNTA1OnBldGVyc29uLmNvbXBpbGE6ZDlrajlZQzI0U3poNTRwWll2Ulc3SEtzalAyQ0RBV1ROQmF2KzcrZVhaST0=|djI6MTY1MzMwOTU2ODowOjE6MQ==.RPAQIVNclUgCNNL/fD6N6jRpe6J9s1IqWhjCWZ1+lD+sPhtj//nmoVBhO/Wkm7bqySCnkJ5ia8HTL17DDH13fg21+nlQV3Qh6xf/T8lu3Eb1xZKj11v5JVEGL6bUjnuhkM53+/E5dXkFFwyVvwh2B0851to/iBWKqXKWAg3yimOpd8kNiw43keHy/J8fTppAWrJjjdYBEyLYjrDONRtEx4ONN7PhqRQb7T3eagJpYvNrlIyvRXJ/2ogUs1moBDGzGKxkTIrHMNQqjoveEF4grQpFgEf6E5vQbz6IzML/ALtzdsVYLnslaKwfj4OzKJVvrfwqnUwTLFbPpV51cqaL9w=="
+			}
+		],
+		[
+			"9aoc0xym4wbl0msdlxra2e3pomr6y5:asantana.compila",
+			{
+				"id": "9aoc0xym4wbl0msdlxra2e3pomr6y5",
+				"token": "djM6OWFvYzB4eW00d2JsMG1zZGx4cmEyZTNwb21yNnk1OjE6cmZpbTRzLXRzdC1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjozMzUxNDoxOjcuMDAuMjEwMzI0UDoz:djE6YXNhbnRhbmEuY29tcGlsYTpub3VzZXI6b2tsRms2cE04emhVT0d0bjVkUERXOENuYVQ4MnhiRlYzUXZCdmNqczNDMD0=|djI6MTY0NzAzMzAwNjoyOjE6MA==.ogX70rKYk/gXf6GE0PX3wPlvPZR/4+U5rJHgIYAVADwNP3JdhhRDNhwCxHpFJHuXWmEMZSwKOOCWhZ30qBn9QVBSvIH67npupTOy9XgIPd5nDGw8uI5qOkAyuWe2b14SF0zrhGdzWLtpzQRs39hzfoDc2F5lanw/DFQlIae3rhTTJ7dJ3xYjMVS5OHYQR2ejIIf/0v5xDuuWHdZKcLSc7MSZ8or2bmuAN4H+pm7LpnAgTyNRYOXptXBnADG+1HbmUUhqhF0KMu1C3MEHLbVB7glGMu+pjb91VOALu8CUhg071c3xQXl9Jm4E43917t5XFn397zAi6iKuX/GuAAwkxQ=="
+			}
+		],
+		[
+			"5maldvmi8osl0mx51e5ympdw4afywh:RFIM4S_TST_STAGING_33504",
+			{
+				"id": "5maldvmi8osl0mx51e5ympdw4afywh",
+				"token": "djM6NW1hbGR2bWk4b3NsMG14NTFlNXltcGR3NGFmeXdoOjE6cmZpbTRzLXRzdC1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjozMzUxNDoxOjcuMDAuMjEwMzI0UDoz:djE6UkZJTTRTX1RTVF9TVEFHSU5HXzMzNTA0Om5vdXNlcjpxQzRVZDVOU2NwdEM3bkZabURIRUFKRDlkNVozTStZeDIxL3QyNnR6bDAwPQ==|djI6MTY1NzA1Mzg4OToyOjE6MA==.ItZBM5FM15dlK1Ibub18hPKwR+04uvdSBLK/KK5uTngwrz5EgbSDSfKJhEO8JTNymnH/JTrEnISH2VesTDKTlN/6M1TabqikShzUBKsc9G00cJmFshOJFvO+Ga/JlbNDyT+A7SmmJckTuYIg4hBaR7w3NGKz9rwOyZ/rC5DcQ/Jlsalqkn3yW2GlNJxy6H/mU1XN7M1e1+o93+PbnwAesfPcacMmWz0ThATRtgR/7Hpg5hb6ZuDTgoIQ2Mm5YcLfjBdhK6G8z9TS0V91ho6NMSYOM1rqqe3AEkviWxBeJHfQ4NE/NIj+a4GyInpnZxP3iWEU+onOSi3Y710EMHnPig=="
+			}
+		],
+		[
+			"mpe1nvphwfl0mscreb8y0st25b4lb:LGPQLC_COMPILA",
+			{
+				"id": "mpe1nvphwfl0mscreb8y0st25b4lb",
+				"token": "djM6bXBlMW52cGh3ZmwwbXNjcmViOHkwc3QyNWI0bGI6MTpsYWJhbmFsaXRpY2ExMDQ3NTEucHJvdGhldXMuY2xvdWR0b3R2cy5jb20uYnI6NjAwMDowOjcuMDAuMTcwMTE3QToz:djE6TEdQUUxDX0NPTVBJTEE6YWRtaW46WE55WnBPdlAyaUhuWjBsMnp2SExIUXduMVY3T3RoUUxFeDJ6cHFxeTc3RT0=|djI6MTY1NTczMzcyNjowOjE6MQ==.WNWIoyCMBsDoeG3bnHfmfHSyARwMxdNiQ+P39soCQqYZi+pPdLFTIg4cIqyJQYyPQWeIcRogLCCh38f7UoHPC+8rHmBiBusGkUW4Cgw5ksJs6wW9JWv8Nu6sffieOdKxmzQ9FJ7N1Shm1+TcPtmhLbPnyPBBdToJOh3FVc/2rGHtk+9bx7NeoDdBNKzN9sHX0CxirORrM5/kfMtX99Qyp6pZci5ott0ZuX2gl1n6AWco4fkXb5d4BpNXMllZ6T89U8/1X6orJ6kN8R6RKNYIT12q1gLYudof4nSpkyvRj7reRzI7c0FGflbhhPz6lqH4oYVdAAvLbrP5SK07SLyxrg=="
+			}
+		],
+		[
+			"4358a3q8y5ll0msexx5uvpc9ugid9t:RFIM4S_TST_STAGING_33608",
+			{
+				"id": "4358a3q8y5ll0msexx5uvpc9ugid9t",
+				"token": "djM6NDM1OGEzcTh5NWxsMG1zZXh4NXV2cGM5dWdpZDl0OjE6cmZpbTRzLXRzdC1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjozMzYxODoxOjcuMDAuMjEwMzI0UDoz:djE6UkZJTTRTX1RTVF9TVEFHSU5HXzMzNjA4OnBldGVyc29uLmNvbXBpbGE6TUdmSkh4d3dNZlhMVCtHZmJaSWNSMVlHNkFKUkN1Ump5RFNmZm1ndmNrMD0=|djI6MTY1MzE3MTMwNTowOjE6MQ==.IY+VNNIL6lCh2PG3UuR8Qz8VUHhHLe4LEFqoHoM9JT4sZTphn+CJhXoH/t0ZHZ56jeeHK0mQNY7AgxWuHDmiEH/REhc2eJ80TkL1hYWwz7TGqDalzxfoysO9mJVowQMsROatazaEXYrJS7E73yTw5T+l4eh98g1fUmKshKvkAUGIl9nUUzJM4140ax1Kaoj8Ex4oCbejloU++KgEJFcejtC/yxeF83rt/lCMpD0FUc4fMLtKWJom5GDOLkkCr98xGDUNyS6EWuog1TBQLpOrTVkY0o454cV6+VtwCLCTHknlInnt+xsmba9a29H7C4Xbu+G2sTtPfya7ETtKeIpiwA=="
+			}
+		],
+		[
+			"zh07os9md2rl12egwyw4l38z9rw0vm:BAN46L_TST_COMP",
+			{
+				"id": "zh07os9md2rl12egwyw4l38z9rw0vm",
+				"token": "djM6emgwN29zOW1kMnJsMTJlZ3d5dzRsMzh6OXJ3MHZtOjE6MTg3Ljk0LjU0LjQyOjMzMDAxOjA6Ny4wMC4yMTAzMjRQOjM=:djE6QkFONDZMX1RTVF9DT01QOmF1Z3VzdG8ucmliZWlybzpGVGJrZVlZNnFDdnBsK2h0Z0NLSEhhUTR3cGlnbnJ5MWhJMmJMOXpadDBRPQ==|djI6MTY1MDkwMDk1MTowOjE6MQ==.AK8QwK5I3O/ABMpYtep7zqZ5rLXmbMySPze3Z+bVrjz/ZGwHraUxf+xvAF13LsJ16710UDUQnqbTMLH6QGMqm1fau1fsKdFQI/G4hSeDPHYMytUXU7Qj4XpQmt8i00S7dkjGLqkFnPODz1XQDOoyq2NvkvfIPzDG5ZbfT219ZHgeHzLBytQJK+vfJrqsn/4jwubadTT6MvL/+1MjzGrL6+BjZIhbq6ktWlJpNkadsaCoHeQH4z2JkLpr/gz5jFumLoZjuScd/omFphzZlbUkctx4x0b5G8mfFvco5at6DU0c9gKotK2tnu8CMcHbiSx0Utd5hIiDQZRhdTOEooXdDQ=="
+			}
+		],
+		[
+			"bhxb8h211xml1b7zwz7qheoac9kugj:BAN46L_PRD_COMP02",
+			{
+				"id": "bhxb8h211xml1b7zwz7qheoac9kugj",
+				"token": "djM6Ymh4YjhoMjExeG1sMWI3end6N3FoZW9hYzlrdWdqOjE6MTg3Ljk0LjU0LjQyOjEzNTAxOjA6Ny4wMC4yMTAzMjRQOjM=:djE6QkFONDZMX1BSRF9DT01QMDI6YXVndXN0by5yaWJlaXJvOlhrNlZ2dDdQczE0L2tpTndYSzVkcmpRL0hlbnp5YUk0anVnQTZVMmZGMVU9|djI6MTY1ODMzNTk5ODowOjE6MQ==.RDzyaomAxA6Mid5zdLTzjrSCqbW6e5z6PAxZDGxECA/IaRMz/UQH0EjpvaFx5NnMuXRg1lHEB/VhjjCa6pCoet/IjoPojcNqRaISe9ckow1O+CdlAdjs4tt1HH6Acq4s4KwieOH7qQD9NEfaO2p2arUjN00Acrao4Qem8hE07zOUgPFctV5jBt1LCZMGFzBhSlVqtLyCdqEckVP+8BwP4JndvBXrZ3nrASS9Y0K4CRzIBMAQiq7kzzN/TpwOUOu1qbskiNMbs+Fhj49R/DlYz1apmJbtR/7zM2a4tkcKHm+dpMULVuMqpkfvk07tWZSUqDkbGwRdBLGura5aV3YRKg=="
+			}
+		],
+		[
+			"lf4gxwgjev9l1dvy9hktflb0do6ux:DESENV_COMP_EXT",
+			{
+				"id": "lf4gxwgjev9l1dvy9hktflb0do6ux",
+				"token": "djM6bGY0Z3h3Z2pldjlsMWR2eTloa3RmbGIwZG82dXg6MToxODcuOTQuNjMuMTgwOjIzODk6MDo3LjAwLjE5MTIwNVA6Mw==:djE6REVTRU5WX0NPTVBfRVhUOm5vdXNlcjpsZVg0c05xNEFpS0x4Ui9WZ0R1SzZNRnlPc25oczFXa0tRUlh4U0VpZjdrPQ==|djI6MTY0ODY2Mzk2NjoyOjE6MA==.oGtem+SenDUOfY3KL+JZMpsNBbqavLUEwZQGzIrVMs0wVu5/14Iu9VxmX1Kkb4xwb116tHEqNPHaKTpS5PhyOwd9hRZfv+FxndjjJFyeRVL4591opA7P1EJcfcrN5JdlRmiil5uLiO1vo26R2In70uUjgeaPhF6xnFZ9TcnTdRk6IQb1VuEbH3lGvV/DTjIEoQ9fKCfejFl31AC5XRFVcJnvoEKhSw5Y/Nlg87CLjDsSVKiag4hRSEwrUcDEA6Duu2HzQ8AFramxK0zDgAGc8kGZNYJSr2ac3YIZl4l17Lzd1yKqhYOLgnrX7PGC5Sf50rgN8I99JvnuT9IN6RwsBg=="
+			}
+		],
+		[
+			"5v4m5kn90wkl1dvvpxfc1aebumh0f8:BAN46L_DES_COMP",
+			{
+				"id": "5v4m5kn90wkl1dvvpxfc1aebumh0f8",
+				"token": "djM6NXY0bTVrbjkwd2tsMWR2dnB4ZmMxYWVidW1oMGY4OjE6MTg3Ljk0LjU0LjQyOjQ1MDAxOjA6Ny4wMC4yMTAzMjRQOjM=:djE6QkFONDZMX0RFU19DT01QOmF1Z3VzdG8ucmliZWlybzpwbXUvdXhUeTBYb0F3RXRUTUNJWGcyeS9GMnRJeXQ3OWNuSmlKdGV2VGlJPQ==|djI6MTY0ODY2NDA3NjowOjE6MQ==.FSW8rESAy507nXFIoK8+hEUjUZgay9ywsqeJUjbc4KLhwuKqyG35hnLY2F2NxTrO7IKNdSU7V1bb4B3ZzLgT1gLfVo1vSU+b6g0+aApOSbRYXcRBx0mSp43uWHF7PlIDtAF1+8xRYlNhJrJP1uAarxCxeSVnnOgnbNJ7rDA7A7rIt77nTJaMxUQU9x4cz6JMQwfyynm6+8HsYFBa9k5UXqO4W893XZA0Bz0fR+fB6PdktTWJjwUavPyn3RSWo18rhgEp9csssAg2hzpzGbM1MARruu5AD7U5JiZXdp/JWd8FmCVRwEbQdCVwygDEMSU/NPPYk0qvjWrQJhGODMNcMg=="
+			}
+		],
+		[
+			"ta7d9ejpy3rl1dwbzmd3vox83dc1lg:ALLIAR_DES",
+			{
+				"id": "ta7d9ejpy3rl1dwbzmd3vox83dc1lg",
+				"token": "djM6dGE3ZDllanB5M3JsMWR3YnptZDN2b3g4M2RjMWxnOjE6YmFuNDZsLWRlcy1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjo0NTAwMTowOjcuMDAuMjEwMzI0UDoz:djE6QUxMSUFSX0RFUzpub3VzZXI6RzBuMHdkRVl1ZHFxZ3dveFlGOU5raVpXekZvc0g4bUMybDFVTll3SXJaQT0=|djI6MTY0ODY2NDYwODoyOjE6MA==.nsCJaw84ffWyVhwVFgB7InE5jUZ6HvG1/zWMXacIs1glS72PEdodwj3YRhMOKJPHzZWXKmm6A9ynoFdERAyEBPivMNkrMDz1ndDGeaK4Okw5uhx/URXlnmk+eATQHsrQrazIhZhi9t7VHZivLkd0fTaKb5Z2CiD0qjqi+1ty56epJOjFxvm47BIJSuPhE/WVqiUMVub8SM5BmDUwuAdERLthWU9rSn/8OtbkBgf451wg8dRq89sEdSJJZzulRgHafQjcMElFv/7IXWAp88UQ9J4gaPEicLyyJK/nBDsKEfaadRdrOCpdOy8VNlfLrfH8ls1OOmIicW2u7wYZCHtNOA=="
+			}
+		],
+		[
+			"4pzh0uiom64l1dwle061l32xhean4h:ALLIAR_DES",
+			{
+				"id": "4pzh0uiom64l1dwle061l32xhean4h",
+				"token": "djM6NHB6aDB1aW9tNjRsMWR3bGUwNjFsMzJ4aGVhbjRoOjE6YmFuNDZsLWRlcy1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjo0NTAwMTowOjcuMDAuMjEwMzI0UDoz:djE6QUxMSUFSX0RFUzpub3VzZXI6cjZTWjBRWFI3dXFnTXhOcDRJcFVBSm9RZERvTGJXRENYVzdKZEJZVUM1MD0=|djI6MTY0ODY2NTA0NToyOjE6MA==.aAh939pzI3pBN9iUToRbMa3eiBhWGMctNRkbpq5lut6MSojIyglGOlncWYFJxlPf6FHzrR/qpuXeogHjgwlImFB4BRXACoY9NcYT4ZVIPgEc35IWLjfUvH57oyfDzYS5KxjhJaS2ITokVHj8oh4RuWUr+I4+2RpzqOvG7nGF8YlEpoaS4CfNZFw6FqX5uU0OBN5AVxEHJh5Z92kDWDCCqsp267q5kPyyPiH6P9FQs1m5isb+0uDGHjoYUTIhzOyLq5TdNxxn2ylD4mwhmIaOYf2oMNee8ObZJcdWJBNbBoBvMfkC5VSYS/DJXmCtRizS52u+52gC7GZSWVBAh/gowg=="
+			}
+		],
+		[
+			"8q4i4pfke1el1dwxaqv9ypn0g2vnj:BAN46L_DES_COMP",
+			{
+				"id": "8q4i4pfke1el1dwxaqv9ypn0g2vnj",
+				"token": "djM6OHE0aTRwZmtlMWVsMWR3eGFxdjl5cG4wZzJ2bmo6MTpiYW40NmwtZGVzLXByb3RoZXVzLnRvdHZzY2xvdWQuY29tLmJyOjQ1MDAxOjA6Ny4wMC4yMTAzMjRQOjM=:djE6QkFONDZMX0RFU19DT01QOmF1Z3VzdG8ucmliZWlybzppQUhrNFVnY2xFdUhrV0daei9FUk1YbElmRWZjdXhKTys3eDgrV2RZR29FPQ==|djI6MTY1ODc3ODU2OTowOjE6MQ==.G37wdnPDq6RLZFrpQO+Yw2tLkJ9MsTKGj8J8UMD+E5TpSGH+eERCV7yW18B36MgoYegHQepCYxv37eDmOrJJJQWUkk74CH9NP119nk/hVUzZMa0C4nT67LOX/c/tqBVjUEbAz8ktmfgaRmoQyDQ8MKTfGgrZRlLhJnLFOKMjwTPt9Bw0cqeFSvI3+cgqzD3vDQ7uakINMZa0eT2Qc0lHtBOuuZMvu+wIVZ7iyLBll2SdFUIeL0I3+skkk19yMgE6jRYlwowclTyZ8AwuRz0wez0Ss5zZjg639H8Rq8LXoISN/IppRX5PJj6XrRvNTSK5PFl+3z5VIsZkSXUnnHVqjQ=="
+			}
+		],
+		[
+			"sxpb1ye3uhl2exro18q9a0rjhr2bl:BAN46L_TST_COMP",
+			{
+				"id": "sxpb1ye3uhl2exro18q9a0rjhr2bl",
+				"token": "djM6c3hwYjF5ZTN1aGwyZXhybzE4cTlhMHJqaHIyYmw6MToxODcuOTQuNTQuNDI6MzMwMDE6MDo3LjAwLjIxMDMyNFA6Mw==:djE6QkFONDZMX1RTVF9DT01QOmF1Z3VzdG8ucmliZWlybzpXM1d0d0J4OVc1QU0ycDFBeDYyOXd4M0V0cnBBdDNMcWRvelh3Y2JSVEhRPQ==|djI6MTY1ODg1Mzg5NTowOjE6MQ==.BHTMOGiOlswQ9g9ZGWRoSwziQDAYcXx2ZOFYrC5DtekwDQ6Vh0p2f8fH+wVQPyKrGtI6Xz+LdC8zpUzOlgHK36RHGr4GaAVPoJkAJq1SLXcwWL6REx29bc1hJXmHsFTsZVBHhzMijC4L32x+cRtc2vGWmmHQVejGL0h99WLlU0nkew65FMLRf20E0ZZmmQRtkZEMwZseCE6Piildn8mNaoXJEd5+mP7QU2kkSRGHFn8YuNMlpOSB191OLQv6pUi4b5z3agv2mLL1gOtQhjAlQsYfC7iawQJPd5hChCERsRe7gIH6aNc8a5SAr1USnAbqTwO64kaZqnngSQfNwrYp6g=="
+			}
+		],
+		[
+			"n23i4116vznl2f0n26c5dv74ixcp5k:BAN46L_TST_REST",
+			{
+				"id": "n23i4116vznl2f0n26c5dv74ixcp5k",
+				"token": "djM6bjIzaTQxMTZ2em5sMmYwbjI2YzVkdjc0aXhjcDVrOjE6MTg3Ljk0LjU0LjQyOjMzMzA4OjA6Ny4wMC4yMTAzMjRQOjM=:djE6QkFONDZMX1RTVF9SRVNUOmF1Z3VzdG8ucmliZWlybzpJeVZsdlBKWGdJVjZqMnA3Y1RtUDg2MW81YWorOXFMK2JvMCtnYmdwUlJzPQ==|djI6MTY1MzU3NDQ1ODowOjE6MQ==.mKB9RlA99mCl1yv7maAH+90e+XsG58HmsyirsFeuwI3VDAyYaB+z2VeZYCkz1c6t0n4Ms2MDr66QGZadgecHCCGYSqPHcQorqMBU4zGuU4TZP0akBHNncPAo6F6EkoN55+0VQUrsMYZiti5Svip75WO1J34mgw7cg8mNTNE7nSONNcoFjybw7YFys6Wrhrn4doCEeqhKvEl1RnU2SP8lQyuYIyBiU2hKjt+klPr3tkVdp7dw0yRxwGebfC9BtXK2cbgzSopSryCyY1HAO5ST1TtvOiIcQkO1JYnVrvwSmUiCy3qSyvucGumsey9Um4z6lfC0/6U5oZeuI7PPDJF4MA=="
+			}
+		],
+		[
+			"ugi4l3qeh2rl2f5kvp8ql4w66m16gj:BAN46L_PRD_COMP",
+			{
+				"id": "ugi4l3qeh2rl2f5kvp8ql4w66m16gj",
+				"token": "djM6dWdpNGwzcWVoMnJsMmY1a3ZwOHFsNHc2Nm0xNmdqOjE6MTg3Ljk0LjU0LjQyOjEzNTAxOjA6Ny4wMC4yMTAzMjRQOjM=:djE6QkFONDZMX1BSRF9DT01QOmF1Z3VzdG8ucmliZWlybzowNXEvNHkxL0tlVFlBTDdyQ0hRSG0xMEJhNnd3dzhDNHNhQTc0ZkJhTG1jPQ==|djI6MTY1ODM0NjcyMDowOjE6MQ==.EYPOPACM69w7imzzZOrRH8zbvy5TD9R4zeUjUmy3XC2oIjRLCWoB7TUouEs1xwPHCAvbihQnII+cPNUWNrUA0uG+I8FRCMqKd2cHaGuuj4/N4fuNBjHHufnIzr0jiwzCtNsMudvtMVAnafiK6DNmAhwTdgknXBSy/3/f8MmxF2vquCgjuXFQrsdmdeFz1LDzSXtoH+DslKO+/M53fig4f91NIAzS3NY2qAA50eJSnB/7/KPg6HOTK9s7s5K5uEcDaxGMCjIDI36Wy1YjlcasoZ6Zy5e4FQgnvOIEizh+dK5d39wvPnBgtJLLibLBkisCDcqHm3wB2894LJAq/GPtXw=="
+			}
+		],
+		[
+			"bnu26bfepzql2z2igp4mlpfmprrw1j:paquino.compila",
+			{
+				"id": "bnu26bfepzql2z2igp4mlpfmprrw1j",
+				"token": "djM6Ym51MjZiZmVwenFsMnoyaWdwNG1scGZtcHJydzFqOjE6cmZpbTRzLXByZC1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjoxMzQxNToxOjcuMDAuMjEwMzI0UDoz:djE6cGFxdWluby5jb21waWxhOm5vdXNlcjo3SjNvWWxwQlJRMUlHaExjVnNHUkxCV3Jla1RHWE10eWdDNlFHN3FxN3NnPQ==|djI6MTY1MjEyMjAyOToyOjE6MA==.KiTu8dLuspWZ3ezf4JYFLGrteruhGiDs83o86Pxbkn5ArMMpPg4scIx4zTWKYK91tBENjp5bf6lOd86A/AdWzul0rtF8/rq5oCLTWr/Sow3YChfYKHzIvAqoK5t3sS3XnA0YIqRVu49I78K1cPytoK0exHEcbnWc83q5ubk7p78afjemdIavrJRw6PKWcigKVIZS7KE20lpTy3dzucZZOE+l8HGaaBhqy2UNbOqn/qEipdADON8LOY7nOdc/qJUnaAhe9oLvC4PLU/rHPVNZUHTPn3fdGPV4axPP8J42BWyzHHLRpfz1D6VW1JUpYJX48ty6HM89wzjl9oY759R9vQ=="
+			}
+		],
+		[
+			"8rh4g74v9psl2z2vutjt7pbv87ou6:RFIM4S_PRD_STAGING_13405]",
+			{
+				"id": "8rh4g74v9psl2z2vutjt7pbv87ou6",
+				"token": "djM6OHJoNGc3NHY5cHNsMnoydnV0anQ3cGJ2ODdvdTY6MTpyZmltNHMtcHJkLXByb3RoZXVzLnRvdHZzY2xvdWQuY29tLmJyOjEzNDE1OjE6Ny4wMC4yMTAzMjRQOjM=:djE6UkZJTTRTX1BSRF9TVEFHSU5HXzEzNDA1XTpub3VzZXI6TzR2VzhQTE5STTI1V1hTQWRPNVA4TUZPSWxzZDY2ZkpqWGxjVVhYR1MxQT0=|djI6MTY1MjEyMjE4NzoyOjE6MA==.C/yjZcaYgFT8mCqtcCOjCnrMRci0nIdbcTA6FC9g90BggfXeak1ffL2BpdI1YiWLgIKxLMqZMF68TMV4SLn96V/R6LXBYyR2ibzXww3m6W61e58gLDR6JDv4ZXeuWW1N/yJbJmMO9vCXP/sck5dvLUBzaLJh3M3b2WZLVppfzkqsJflLJlr2TRkS6ddrSyoNLQSVx7m0oePwu4wqnRhyczFb3Nz/D4uJuMTqgaTqMBDIaF4BvHtqLjGxvm+b46B3rOEEyaE3Td4coHJlDg/uGzxVLdBI76Twgol1HVvUFz15ADeEVQbx3YCYmUovEKMHjRtxIGrYHBl/lREpJSm29Q=="
+			}
+		],
+		[
+			"k5fbg65i23pl2z30haimri46h26c6f:RFIM4S_PRD_STAGING_13405",
+			{
+				"id": "k5fbg65i23pl2z30haimri46h26c6f",
+				"token": "djM6azVmYmc2NWkyM3BsMnozMGhhaW1yaTQ2aDI2YzZmOjE6cmZpbTRzLXByZC1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjoxMzQxNToxOjcuMDAuMjEwMzI0UDoz:djE6UkZJTTRTX1BSRF9TVEFHSU5HXzEzNDA1OnBhcXVpbm8uY29tcGlsYTpvSmU1cGhnRzUyLzZGUW1RZk9RL3crejhXaDVLNjJiVXBDVVZoTjREdk1NPQ==|djI6MTY1ODQzODY4MDowOjE6MQ==.DPfqn5eKL4Jnrkme8hSBdVDIx/uz5qmQtXrrOuV4tSC2+QmQucZzp2E3bGoo6+lXRqbadP7kJ/Lju1Jo5MROq7ozt4e4sPqlB6Zeb6KOAx40UzB54KT6I++CuA1UNrAxJ8s58lfFIR75jYyeHOvYrV6f81qYiSks+U3xP66R39eq+4dzjdLmatUUQocVticMuYGtgzr8Ah81c33bXROhaK+ZjBoK88sxTWPMVm0hjBM5tavtAghxQ2hQAIsaOM57CDvE2zIRShMSeXszSHiQtpV8Wy4Ia/3swQIXaTEGValFGggftEB99PExCW289ZolO8q0mv6c/umRZSDdEX2qYg=="
+			}
+		],
+		[
+			"b4tpq9drmrol3c10u7m8z7co8nl56c:BAN46L_TST_WS",
+			{
+				"id": "b4tpq9drmrol3c10u7m8z7co8nl56c",
+				"token": "djM6YjR0cHE5ZHJtcm9sM2MxMHU3bTh6N2NvOG5sNTZjOjE6YmFuNDZsLXRzdC1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjozMzMwMTowOjcuMDAuMjEwMzI0UDoz:djE6QkFONDZMX1RTVF9XUzphdWd1c3RvLnJpYmVpcm86SVNkVTZmWWFHalNqaWRxWE0vL0FkQXovTE5COE1SeWd2RUh6M2J4SVdDMD0=|djI6MTY1NjAwNzUwNzowOjE6MQ==.IYVk0A/D+ZwkUVAUsgS95AbDsYSalsCHbSgcqyvsu5BzkTgEzS/bNrgAyvtSGb0l6D2Vqsl9wIK/gh5nIEYyoXVT2OizSPaaVTILMNfalGRONw6Y1HRNeLa+enCgi1RwYjta8USbyX++l5UHWas6hj/5ti+6/KcdcDUBf8CRCO8Bml97SpupQ0AhWEn2YKC7ZCXg8L8yB3fpf7Fm1VO78E2ctW/zqQpDXAojrAOKP1QSoY9tSUx8AjoIauD3keVfpCUuwsgStaVrNfwAa+6o7GGRp0a+t05oaK+1hNcYJot0RK13gp+WoXHa0fDrJCJhpxLUUVtnJYb9ja9DeFkNWQ=="
+			}
+		],
+		[
+			"crwb564gudl3kb6kcbfgk7d02t5dr:BAN46L_TST_WS",
+			{
+				"id": "crwb564gudl3kb6kcbfgk7d02t5dr",
+				"token": "djM6Y3J3YjU2NGd1ZGwza2I2a2NiZmdrN2QwMnQ1ZHI6MTpiYW40NmwtdHN0LXByb3RoZXVzLnRvdHZzY2xvdWQuY29tLmJyOjMzMzAyOjA6Ny4wMC4yMTAzMjRQOjM=:djE6QkFONDZMX1RTVF9XUzphdWd1c3RvLnJpYmVpcm86Vmlrc0hUTUt3RHZremdXaW9wZjlwWVhUQlFjTWoyeDJ3c3Rvb2JVK2ZOaz0=|djI6MTY1MzQwNTkzODowOjE6MQ==.lFaYC63Ej0zpdIrGDseUDaZbz7736EgfzVa53r0oRgg2xw6QgegTbqez+WVPGNk9CIXT76ZFBZuFNhW3XF4Mw7KqcNCoOIYSfijnYyqWq5JRDKLvsC0wNi5vBfjRHIWLWMB0Mag334ar6pd3L4CSBHO2fpKtP+qjUtJ4jzKL8AqaAxOQ6tjJz45+PapPho6RMHLXQnSNUXikNbDXExpnErD2ntlc9AUnbUOTEADXUOyJeZWPrBdpGrcrlUVivXk/zFAb0O1rCvwouU/0rvSzOFZMz+2QaEe79/2ntvUfokIw9k1bbeuQ9KaKVROkSWsAjiyhRk7YClGBu7pBQlCJ1Q=="
+			}
+		],
+		[
+			"3foy0g0pk47l4d2t563k2xzalf0nyd:BAN46L_DES",
+			{
+				"id": "3foy0g0pk47l4d2t563k2xzalf0nyd",
+				"token": "djM6M2ZveTBnMHBrNDdsNGQydDU2M2syeHphbGYwbnlkOjE6YmFuNDZsLWRlcy1wcm90aGV1cy50b3R2c2Nsb3VkLmNvbS5icjo0NTAyMDowOjcuMDAuMjEwMzI0UDoz:djE6QkFONDZMX0RFUzphdWd1c3RvLnJpYmVpcm86WEN6KzBJak1vUVQrMlMxMlVIYXJmMHI3K2JPOHRtUzVGREcvR09PMkdLQT0=|djI6MTY1NTgzNzQ2MTowOjE6MQ==.RenFGl7G/w5qnVuGfFgyb7T0XC75+Bq6FsuMoc/c4TOHZ00p0FVRc7hwvcaMFJO6jAxKKDF773WgNUZ9T0Qs+KWgYgv8LbkMOeKx9YGz2tYw0J4d3+MAQTZjBYrC8lM9wOo97bd/8P2vmJn6JM+uWEuUX2mTQzDvSLnBiyxYBQPYRpIfZknGx0oxDN9ku5Kq3eHC5//87mLYutWhEGksk6JQj3r68/Zc/EnOhHIbU1fQQAPnyNK97IMV7YlZJjN0eTXKFFqQodE0LBDiipPv7RnCYLMn0yt+0+QBsAPikXYdL+Xz3LUHeliwwHABh6MBOuFxZQP9SR9xWzAnfO8sog=="
+			}
+		],
+		[
+			"w3wmdym4mrnl4smm9yu9ni5y0me2fv:Enviroment",
+			{
+				"id": "w3wmdym4mrnl4smm9yu9ni5y0me2fv",
+				"token": "djM6dzN3bWR5bTRtcm5sNHNtbTl5dTluaTV5MG1lMmZ2OjE6MTkyLjE2OC4wLjEyOjEyMzQ6MTo3LjAwLjE5MTIwNVA6Mw==:djE6RW52aXJvbWVudDpub3VzZXI6b2ZzdEllemhIbFZTTzh6a2J1YnBnWkpGYmxKUEFEMFhzQTZDWEM4WnpSRT0=|djI6MTY1NjA4NzAzNjoyOjE6MA==.RK0dSWfyr/Q9a+lzyG8gZolyunNkMskXCjVpoyiMogJnYyHbTPUNK/sA11p6HJ1kd3RDCN/THDKywbQT5w5+UlB1L+MMea027h+sc0cXCWnSyaJrH1fpfWHDJRUvTeEzmAzNjMGFlEk0T7rNX+QSZOAIfRBgfsNNOR3umvhTaLVvzGcVCDNID/6hd7P4maRhW9Ttx2VTihrEcdCh+J0BwZiQ4G+5jSh0u/k51REokOGniKOkAXFlXmh4KWUqWq25NvQHJfMhgoP5i1GCde6ob+8sxeqo9Xw/uBUWEUI1AokSuR3YJ9TCGhT+Khv2DshMyoidckxzgQW+5t7Af8Ww3Q=="
+			}
+		],
+		[
+			"6t0zcs2hldll4snky9xnv0dh1y6zo:Environment",
+			{
+				"id": "6t0zcs2hldll4snky9xnv0dh1y6zo",
+				"token": "djM6NnQwemNzMmhsZGxsNHNua3k5eG52MGRoMXk2em86MTpMb2NhbGhvc3Q6MTIzNDoxOjcuMDAuMTkxMjA1UDoz:djE6RW52aXJvbm1lbnQ6bm91c2VyOkVuT2g5a0REaHJBc0JDQ2NEMS9xN1dGODVUSlVKUHc2ZFZQS0pRM2FFTW89|djI6MTY1ODcxODM5MToyOjE6MA==.t6I+ZfONmAojz19O3UlSLcYc/DdpM9j1wgUIb6D8Kt0KEdLHRQjWzbQdf/v3qvcGbCvAViZqxsWrdtrCaKoXCRws3wIQuj1CGA708WctDgSyXajZP037EKA+nC3/OGaQklxnn0GphxdLr/vjRF6EaV3C9WejRw0Amdmv46yFVpF7PL+Z0sxLG/FTM1woTKYZkYDoR1pYiLAJtbF87Dk1SDUv3oVopx9tldwnpQCda/mMNAVLIiI0ALdeQj4f4Pl4YXodCkPX3w91wagYPdHOoH9z5vYirSqB6lulGvXxnpjiUXNbtb4FXjo7oVUOoYp0lI8rMI0vesHcPJBadear2A=="
+			}
+		],
+		[
+			"tjcmf0s5kzal4zu2441g66ht8ea1mf:COMPILA",
+			{
+				"id": "tjcmf0s5kzal4zu2441g66ht8ea1mf",
+				"token": "djM6dGpjbWYwczVremFsNHp1MjQ0MWc2Nmh0OGVhMW1mOjE6NDUuMjM2Ljc4LjI6NjI5NjoxOjcuMDAuMjEwMzI0UDoz:djE6Q09NUElMQTpub3VzZXI6QVN3OW9pTFh3cDFqY1JHdCtKVVBsZ25aWnhLSllid29aOUtNMlE4ZkJYbz0=|djI6MTY1NzA3MDcwNzoyOjE6MA==.fG65sEL0+LrY4S1Ckr5YbCCsqxdx9TPT5doudvD+s8wBwZlAFHNoO8LHtzSZ2drrRjBt5POO90saptUENOBHLJ/ssPK8YO+saL1ATy39khPhmBY0L31J4D2W351gkJGfC0PGX6oU0ZeyfB7VhDGYCMg7uh4tm3da119LHiJpeWnwARYJBiAjVflWHRees6BVOKjgBueknqpYqtfdr1UvNYCbVMRHVtR56NZZdHv8DBRKYU7jMXEarSn6zuMjH+1UShPXPgDEnXVTUHnKygEtBSVNO6xjo9NUVg1kalR4CcrkvFgW7RYchNjrx12DI+lpILggqZGCAXpBy6ihCX7PlA=="
+			}
+		],
+		[
+			"kmywlbgs6ul55hem3xacmxwffg9qi:Rest",
+			{
+				"id": "kmywlbgs6ul55hem3xacmxwffg9qi",
+				"token": "djM6a215d2xiZ3M2dWw1NWhlbTN4YWNteHdmZmc5cWk6MTpMb2NhbGhvc3Q6MTIzNjoxOjcuMDAuMTkxMjA1UDoz:djE6UmVzdDphZG1pbjpkS1QwOFBpSnpPWm9HMEtTZWYzOXgxWjFFNUxUWkNRYUUrMU1mNmtSTlZ3PQ==|djI6MTY1Njk0NDg5OTowOjE6MQ==.L7R+iU+n6M68uakQHAVt6eRgwwc4V5PNsocM4zHSF/eNJahe85AMyfW9fUQwZzw7TuRhLjxT23ClMmgo82J0utkmz5hsxkDGAVPq3pc+yDGVHuq2FSksgXaRUEbNMGKrNqlSxQIT9Hk+1pcWGcAY6QvaUt5iHK6Nvv9Z11g6W92enUuNTygeV4MwQoCOTycd8HagCRN13jZbTBEhI21h22pm1jSwipbBvKdAf6qLQwDP8XlaW8jU0MBKaHXBaxfgC/HjQodDFm7aTtIakP9htbkZsZeEJygVEqiv4IQuUVNweZQ5s2++b5cVhJrIuIM5ReaSyOTOXrrg3Wdj+8W7cg=="
+			}
+		],
+		[
+			"kmywlbgs6ul55hem3xacmxwffg9qi:Environment",
+			{
+				"id": "kmywlbgs6ul55hem3xacmxwffg9qi",
+				"token": "djM6a215d2xiZ3M2dWw1NWhlbTN4YWNteHdmZmc5cWk6MTpMb2NhbGhvc3Q6MTIzNjoxOjcuMDAuMTkxMjA1UDoz:djE6RW52aXJvbm1lbnQ6YWRtaW46S09peGZPOXFnQTBtSnArWkpnNGRoallFMldFN3BHWFE5WGM5eE1XUVVoQT0=|djI6MTY1Njg2MzM5MjowOjE6MQ==.bpKknBhRleWAE1KiDT6QT3n+LZGVaUSIFA5MuF+xEqySzJn7mTunGD77Wv9Ev/mDAUIn4m+EE47sToR/yzTgnvakbCsh0kCLhj1eFPxUxAz9+ioz2zOyfrrec15bp+Wi8qofHt5h6DD9wiB8dvmGRddJlD1rdrX4CHiK+74cca5gLYDmkwUvAQh4hVtgyfmESVEi1IxbtBsCed7IJUSiYZHq2xoPz+w+PWS7E/pT37bl7LXNPp7j7cgcml+G35MKCw7SPk9mPiGanzj9oDwPUAi+GJHVyjNkyaDMCnMDn/J8crrWOnWwVrrkHXt7Z4HbxvOHcrq14ZsBUlh+YP2mvg=="
+			}
+		],
+		[
+			"tjcmf0s5kzal4zu2441g66ht8ea1mf:GZNTAT_TST",
+			{
+				"id": "tjcmf0s5kzal4zu2441g66ht8ea1mf",
+				"token": "djM6dGpjbWYwczVremFsNHp1MjQ0MWc2Nmh0OGVhMW1mOjE6NDUuMjM2Ljc4LjI6NjI5NjoxOjcuMDAuMjEwMzI0UDoz:djE6R1pOVEFUX1RTVDpDT01QSUxBMTpYcDdST29BdDJrT0dkdjhyNnlHbkVDaTFwOXhqL1ZpZnJKcVI5QWFOSGRFPQ==|djI6MTY1NzY0NjIwOTowOjE6MQ==.WsltOsvbikaTZjyfRENR77s12Dtx4Bwxh4tyme+RugwGvnlTkgkan0bscmaDcvL4c4ya6HN9USV8VBzGRcdOkUbpw1VWtJN3Gfa/iGH4BO0ePw3va8kCFdDQB7oeFhdCGSLcjrIStgW1fKxI+z6dXYAgGjtfiMDNgFczo/M1GXdYpFq7fquirPGudd45S5YJb+BVzhnJKm/7XzYqzOFNvTOpvGe9vlvVZGg9bKDPCZss05RMJEa4SuRPRKViCf8mgqy1VRDbOhDkU6UsxQPCfGc6CotaDaMqXqHtE4E2m2gqFjiMimzvgRxxWqSjVvP3DZeZONlr0M03AiBI7MOf9A=="
+			}
+		],
+		[
+			"tjcmf0s5kzal4zu2441g66ht8ea1mf:GZNTAT_TST_33",
+			{
+				"id": "tjcmf0s5kzal4zu2441g66ht8ea1mf",
+				"token": "djM6dGpjbWYwczVremFsNHp1MjQ0MWc2Nmh0OGVhMW1mOjE6NDUuMjM2Ljc4LjI6NjI5NjoxOjcuMDAuMjEwMzI0UDoz:djE6R1pOVEFUX1RTVF8zMzpDT01QSUxBMTplWUdqMFo3eER1bGVnNnMxNnVHOC8zbTRCSGdhZWVoY25Sc3VDR3QrZTdjPQ==|djI6MTY1NzczNDA1MTowOjE6MQ==.P02EFjYjSdM6LuSwZqlLyEfgMit26H7Y+Gad6BytngXRRnX2+w/HrP1h0e8EU6avoTVOOSTiFJyTRuuB4dnraMmickmfRR7U/dmBEezj/WZxUQ9idwOi7MFbzKlvN02sFDV+iDtBHAGJQeA2Pj+wCkDSZcDAJaNqO4blxBw3g2R4rzEiIG7UGdtjabQiB+Axr0uZ6wH7lFsw09Zn9vskIgV3m4CfEetK+8bchA3VRZ7+YfoOrs0fkesft8kS+J5etZTqRjGUCQWgABa4vgXMLPO0HWH2b6WFptHzUOFmh8nJUlD1XRjNxs66mNyDwmQkmrMmlJQq/d7x2aIQTAeKQg=="
+			}
+		],
+		[
+			"krvdvu9woqkl5zl7sc4jq7fyzzpz2m:PJCCR01",
+			{
+				"id": "krvdvu9woqkl5zl7sc4jq7fyzzpz2m",
+				"token": "djM6a3J2ZHZ1OXdvcWtsNXpsN3NjNGpxN2Z5enpwejJtOjE6MTAuMjUzLjAuMTM3OjIwMTg6MTo3LjAwLjE5MTIwNVA6Mw==:djE6UEpDQ1IwMTpjb21waWxhOkQvVzNGMjhSL3d5VEIwbTdLc2tiYWszTXJNVStkVE8yRFo3WDh3bkIrdjQ9|djI6MTY1ODY4MzMzNjowOjE6MQ==.I5YXfCRkr2L/wqg7wtL3X4+6dCtA0jmML3KrALChXgHHoxwtGSHdC4xjBCs9fv+F0x9BxOY7HR/D1pFi2AhNP7n/lK/vcdkyOzSim6FOLI0YiG2uwKhN+CwARL3tJPYNORIMGbcHA2Pa8A76RWrsJqd9CLR76+Zsk7YFONTKYzHNNrHPdPC6Ahg4wxuJFEdr35piIMVY4hPpG1m9DJWBYzV+SyfXXalW9WKZUoGwv5aq3P2ocrVkzfacx/lFPbPmoXRZs4YnKCN2Hz5bTmWje0bqh12RVLvhOLbfjzy/EM8iTd++ZaWjCZkw9gGU752LADO5Lwo2PdBkIdQCoKPhWw=="
+			}
+		],
+		[
+			"ptbikckw3kol606pomty1ofomzfls:Aguas",
+			{
+				"id": "ptbikckw3kol606pomty1ofomzfls",
+				"token": "djM6cHRiaWtja3cza29sNjA2cG9tdHkxb2ZvbXpmbHM6MTpsb2NhbGhvc3Q6MTIzNToxOjcuMDAuMTkxMjA1UDoz:djE6QWd1YXM6QWRtaW46Z3FxMmEzVU1WSjZSVlVUWE1BSzVsYWQyekxON0NFOVRBdmpXSkgzQVpPVT0=|djI6MTY1ODgzNTkyNjowOjE6MQ==.AJdtyJrqmnptChxEXqMDWuxmZIKTcgn7aqsYpsWGKrywxkbbH5+fyYkUJur7pCloBl/5tzRkUgCrwk/hHXzCy6wMfjTQ+HShEqXO9hmFVh7ziF4Ib+ePdYOSHIoGCEg9eKtnO0gn8V/iqYqxWuvg42PJNT45LgpO6XqrORjYprhEQvVWMKus2h1eIJNqxLk58nYPBF8asSG3gh/nhpymTcqHaAGm7Fhx3qYw59XQeo3GfeSbfbDfhrwUybRsko+dCI18gcO9+yMt2iBgGgPPLlevSVvAbG3leWjfqGL7+ZEU4jz23S/AK3esBwr8etp3OC6oWBwmiqKCbsvLDlI5Hw=="
+			}
+		],
+		[
+			"ptbikckw3kol606pomty1ofomzfls:Aguas_Compila",
+			{
+				"id": "ptbikckw3kol606pomty1ofomzfls",
+				"token": "djM6cHRiaWtja3cza29sNjA2cG9tdHkxb2ZvbXpmbHM6MTpsb2NhbGhvc3Q6MTIzNToxOjcuMDAuMTkxMjA1UDoz:djE6QWd1YXNfQ29tcGlsYTpBZG1pbjpBeHQ3Ykd3QkgvSGJ5K3EwbVM0R0tZWjRDNnZZTVFnY1NRZlJEQXE4YXJvPQ==|djI6MTY1ODg0MDI0NDowOjE6MQ==.gMXSYNShkW6/labSDullFeN0oVkdJpKPWTF1UXQCzwV3VXckP3xiEmJbz1zWSXXdrMDcjgoiudsDioc1MacGmpVzYCgLjSughi/9QRCfUiywozrW4fjbR4wxpoayZ7oh+AR6XqrpSJla5SeFY6sUB4a8mbL20rA6CGHyuq0aFLLk/LiTISWAPjOreFSQVoP5zkvQ7WH/QXg5/jGG1J216bKNDJd11zlRDYqjw6aEP0mqiGKy222GOQeClYe6yhue4T3b6mA5MSmzB6N/XYD1RC7xwX+izZys7pBaYPP9FPmaYaj93XjhgcZlx9CXpTvE1DP51TB7ERaym9aa9ngerw=="
+			}
+		]
+	],
+	"lastConnectedServer": "sxpb1ye3uhl2exro18q9a0rjhr2bl"
+}
