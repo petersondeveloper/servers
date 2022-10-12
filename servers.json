@@ -510,7 +510,7 @@
 			"id": "pj4adr5iitl95peadk8i1ftn8kaem",
 			"type": "totvs_server_protheus",
 			"name": "MA_HOSPITALAR",
-			"port": 4000,
+			"port": 3000,
 			"address": "192.168.11.200",
 			"buildVersion": "",
 			"secure": true,
