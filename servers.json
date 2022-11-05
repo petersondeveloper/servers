@@ -17,7 +17,7 @@
 		"includes": [
 			"C:\\Totvs12\\Include"
 		],
-		"environments": [
+		"environments": [ 
 			"RENATO_TST"
 		],
 		"username": "admin",
